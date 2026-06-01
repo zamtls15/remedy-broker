@@ -1,0 +1,1 @@
+<?php /**PATH /home/zam/web/hqprime.org/public_html/resources/views/home/trading-conditions.blade.php ENDPATH**/ ?>
